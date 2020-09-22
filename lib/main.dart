@@ -58,7 +58,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Padding(
               padding: const EdgeInsets.all(18.0),
               child: Center(
-                child: Text('Atínale al dado y te ganas 10 pelucholares',
+                child: Text('Atínale al dado y te ganas 10 pelucholares. (imaginarios)',
                   textAlign: TextAlign.center,
                   style: TextStyle(
                     fontSize: 20,
